@@ -1,19 +1,20 @@
+# Framework & Agent Orchestration
 langchain
 langchain-core
-langchain-openai
 langchain-community
-langgraph
-langchain-tavily
 
+# LLM Provider Integrations
+langchain-groq
+langchain-openai
+
+# Web Search & Web Scraping
 tavily-python
 beautifulsoup4
 requests
 
-python-dotenv
-pydantic
-typing-extensions
-
-langchain-groq
-langchain-openai
-
+# Web Interface & UI Utilities
 streamlit
+rich>
+
+# Configuration & Environment
+python-dotenv
